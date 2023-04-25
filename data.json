@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "prop1":"item1",
+      "prop2":"value1"
+    },
+    {
+      "prop1":"item2",
+      "prop2":"value2"
+    }
+  ]
+}
